@@ -6,7 +6,7 @@ Context: Pop!_OS 21.10 (quite similar to Ubuntu)
 
 ## What worked for me
 
-Copy https://github.com/git/git/blob/master/contrib/completion/git-completion.bash to `~/.git-completion.bash`
+Copy the conent of https://github.com/git/git/blob/master/contrib/completion/git-completion.bash to `~/.git-completion.bash`
 
 Add the follwing lines to the beginning of your `.bash_aliases`
 
@@ -40,6 +40,6 @@ In this guide https://davidwalsh.name/git-branch-autocompletion the part `__git_
 
 ### More sources
 
-https://stackoverflow.com/questions/9869227/git-autocomplete-in-bash-aliases
-https://stackoverflow.com/questions/342969/how-do-i-get-bash-completion-to-work-with-aliases
+- https://stackoverflow.com/questions/9869227/git-autocomplete-in-bash-aliases
+- https://stackoverflow.com/questions/342969/how-do-i-get-bash-completion-to-work-with-aliases
 
